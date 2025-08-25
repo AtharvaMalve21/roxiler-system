@@ -26,7 +26,7 @@ import StoreDetail from './pages/store/StoreDetail';
 
 // Admin Pages
 import AdminUsers from './pages/admin/AdminUsers';
-import AdminStores from './pages/admin/AdminStores';
+import AdminStores from './pages/admin/AdminStores.jsx';
 import CreateUser from './pages/admin/CreateUser';
 import CreateStore from './pages/admin/CreateStore';
 import EditUser from './pages/admin/EditUser';
@@ -36,7 +36,6 @@ import EditStore from './pages/admin/EditStore';
 import MyStores from './pages/store-owner/MyStores';
 import StoreRatings from './pages/store-owner/StoreRatings';
 
-import './App.css';
 
 function App() {
   return (
